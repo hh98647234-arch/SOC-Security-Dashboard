@@ -27,3 +27,5 @@ stream lit run dashboard.py
 - `requirements.txt` - python dependencies
 ## Security Disclaimer
 This project is for educational and portfolio purposes. Detection logic is based on sample security logs and is not a production-ready SIEM solution.
+## Dashboard screenshot
+![SOC security monitoring dashboard](dashboard-screenshot.png.png)
