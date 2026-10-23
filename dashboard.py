@@ -3,7 +3,7 @@ import pandas as pd
 st.set_page_config(page_title="SOC Dashboard", layout="wide")
 st.title("SOC security monitoring Dashboard")
 st.title("security operation center - monitoring panel")
-logs = pd.read_csv("Security_logs.csv")
+logs = pd.read_csv("security_logs.csv")
 logs.columns = logs.columns.str.strip()
 logs["Severity"] = logs["Severity"].str.strip().str.title()
 logs["Event"] = logs["Event"].astype(str).str.strip()
