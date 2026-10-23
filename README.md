@@ -30,4 +30,4 @@ This project is for educational and portfolio purposes. Detection logic is based
 ## Dashboard screenshot
 ![SOC security monitoring dashboard](dashboard-screenshot.png.png)
 ## Live Demo
-[View SOC Monitoring Dashboard](https://u5xbn6rntmd5ppcftugakid.streamlit.app)
+[View SOC Monitoring Dashboard](https://u5xbn6rtmd5ppcftu9akid.streamlit.app/)
